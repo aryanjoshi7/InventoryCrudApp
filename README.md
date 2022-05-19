@@ -2,6 +2,9 @@
 
 This is a CRUD implementation of an inventory management system of a Grocery Store. This application is built using Python, Flask, and a SQLite databse. Additionally, I implemented undo delete and deletion comment features.
 
+Use this link to visit the replit to launch the application.
+https://replit.com/join/vugedckhmk-aryanjoshi
+
 After launching the application and visiting the home page ... 
 
 Append /create to the url to add items
@@ -15,3 +18,4 @@ Append /data/"id"/delete to delete items
 Append /data/"id"/undelete to undo a delete
 
 Append /data/deleted to view deleted items
+
