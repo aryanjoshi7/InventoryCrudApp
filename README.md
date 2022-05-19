@@ -1,6 +1,6 @@
 # InventoryCrudApp
 
-This is a CRUD implementation of inventory of a Grocery Store built using Python, Flask, and a SQLite databse. Additionally, I implemented undo delete and deletion comment features.
+This is a CRUD implementation of an inventory management system of a Grocery Store. This application is built using Python, Flask, and a SQLite databse. Additionally, I implemented undo delete and deletion comment features.
 
 After launching the application and visiting the home page ... 
 
